@@ -1,0 +1,4 @@
+Spam mail detector
+-message in spam mail is used to detect the mail
+-tfidvectorizer is used to convert the message into numerical values based on repeatetive words
+-hear fit_transform method is used to convert train data into numerical train data and transform method is used to convert test data
